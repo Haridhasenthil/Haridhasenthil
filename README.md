@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Haridha Senthilkumar</h1>
-<h3 align="center">Student</h3>
+<h2 align="center">Student</h2>
 
-- 🔭 I’m currently pursuing my degree in [Coimbatore Institute of Engineering and Technology](COmputer Science and Engineering)
+- 🔭 I’m currently pursuing my degree in Coimbatore Institute of Engineering and Technology
 
 - 👯 I'm looking for my first experience
 
